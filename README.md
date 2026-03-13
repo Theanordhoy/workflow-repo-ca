@@ -78,6 +78,34 @@ TEST_USER_PASSWORD=your-password
 - Vitest
 - Playwright
 
+## AI-Log
+
+- **Tool used:** Google search that showed answer from ChatGPT on top of the feed
+- **Date:** 10 March 2026
+- **Purpose:** Can you have multiple expect in the same unit test
+- **Outcome:** It said that you can have multiple expects in the same unit test
+
+---
+
+- **Tool used:** ChatGPT
+- **Date:** 10 March 2026
+- **Purpose:** Debugging error on test
+- **Outcome:** It showed me that I had forgotten to write the “const user =” as an object
+
+---
+
+- **Tool used:** ChatGPT
+- **Date:** 11 March 2026
+- **Purpose:** Debugging error on test
+- **Outcome:** It showed me that I might have had the wrong path, and I did
+
+---
+
+- **Tool used:** ChatGPT
+- **Date:** 12 March 2026
+- **Purpose:** Asked about difference between npm and npx
+- **Outcome:** Learned that npm is used to install and use a package in a project. And that npx is used to use a package from a project without installing it globally
+
 ## Author
 
 Thea Nordhøy Kristensen
